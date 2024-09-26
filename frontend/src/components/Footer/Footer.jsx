@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-            <img src={assets.logo} alt="" />
+            
             <p>lorem inpus simply dummy text of the printing</p>
             <div className="footer-social-icon">
                 <img src={assets.facebook_icon} alt="" />
